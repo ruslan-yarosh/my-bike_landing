@@ -4,7 +4,7 @@ The My Bike Landing Page is a static website built using HTML and SCSS. The webs
 [DEMO LINK](https://ruslan-yarosh.github.io/my-bike_landing/)
 
 Used technology:
-•	Semantic HTML5 markup
-•	CSS3: Grid, Flexbox
-•	BEM methodology
-•	Preprocessors SCSS
+  - Semantic HTML5 markup
+  - CSS3: Grid, Flexbox
+  -	BEM methodology
+  -	Preprocessors SCSS
